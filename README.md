@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JJablonski02/](https://github.com/JJablonski02/)
 
-- 📝 I regularly write articles on [https://twitter.com/JJablonski12](https://twitter.com/JJablonski12)
-
 - 💬 Ask me about **.Net, .Net Core and SQL**
 
 - 📫 How to reach me **kuba2805@icloud.com**
