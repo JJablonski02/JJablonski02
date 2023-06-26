@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjablonski02&label=Profile%20views&color=0e75b6&style=flat" alt="jjablonski02" /> </p>
 
-- 🔭 I’m currently working on [Flawless Azure](https://github.com/JJablonski02/FlawlessAzure)
+- 🔭 I’m currently working on [crudBundle](https://github.com/JJablonski02/crudBundle)
 
-- 🌱 I’m currently learning **EntityFramework Core, EntityFramework, Azure,**
+- 🌱 I’m currently learning **EF Core, Azure Platform**
 
 - 👯 I’m looking to collaborate on [Currency Exchange](https://github.com/JJablonski02/CurrencyProject)
 
