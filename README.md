@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjablonski02&label=Profile%20views&color=0e75b6&style=flat" alt="jjablonski02" /> </p>
 
-- 🔭 I’m currently working on [crudBundle](https://github.com/JJablonski02/crudBundle)
+- 🔭 I’m currently working on [crudBundle](https://github.com/JJablonski02/ContactsManager)
 
-- 🌱 I’m currently learning **EF Core, Azure Platform**
-
-- 👯 I’m looking to collaborate on [Currency Exchange](https://github.com/JJablonski02/CurrencyProject)
+- 🌱 I’m currently learning **EF Core, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JJablonski02/](https://github.com/JJablonski02/)
 
