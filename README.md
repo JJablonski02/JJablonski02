@@ -1,21 +1,7 @@
 ![MasterHead](https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png)
 <h1 align="center">Hi 👋, I am Jakub Jablonski </h1>
-<h3 align="center">web&backend .Net developer</h3>
+<h3 align="center">.Net developer</h3>
 
-<h3 align ="left">🔭 I’m currently working on</h3> 
-
-<p align="left">
-  - Contacts Manager - CRUD web service for managing contacts
-  <a href="https://github.com/JJablonski02/ContactsManager">[ContactsManager]</a>
-</p>
-<p align="left">
-  - TrimbleXtend - GUI app based on algorithms, released for use
-  <a href="(https://github.com/JJablonski02/TrimbleXtend)">[TrimbleXtend]</a>
-</p>
-<p align="left">
-  - ExchangeOffice - Currency exchange web service for checking international rates and exchange currencies
-  <a href="https://github.com/JJablonski02/CurrencyProject">[ExchangeOffice]</a>
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
