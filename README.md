@@ -1,5 +1,5 @@
 ![MasterHead](https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png)
-<h1 align="center">Hi 👋, I am Jakub Jablonski </h1>
+<h1 align="center">Hi there, I'm Jakub Jablonski </h1>
 <h3 align="center">.Net developer</h3>
 
 
